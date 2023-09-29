@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/rajdeepbuilds/rajdeepbuilds/blob/main/Rajdeep%20de%20(1).png)
 <h1 align="center">Hello 👋, I'm Rajdeep De</h1>
 <h3 align="center">A passionate developer with management skills</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
